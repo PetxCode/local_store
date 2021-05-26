@@ -1,0 +1,5 @@
+export const ActionTypes = {
+  ADD_ITEMS: "ADD_ITEMS",
+  SELECT_ITEMS: "SELECT_ITEMS",
+  REMOVE_ITEMS: "REMOVE_ITEMS",
+};
